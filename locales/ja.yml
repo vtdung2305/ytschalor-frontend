@@ -1,0 +1,604 @@
+common:
+  loading: 読み込み中
+  required: 必須
+  option: 任意
+  filed_no_required: %{field}を入力してください。
+  field_only_number: %{field}には、数字を指定してください。
+  no_data: データなし
+  serve_error: サーバーで問題が発生しました。しばらくしてから再度お試しください。
+  list: 一覧
+  close: 閉じる
+  yes: はい
+  no: いいえ
+  more: 続きを読む
+components:
+  button:
+    submit: 登録する
+    btn_login: ログイン
+  menus:
+    keyword: キーワード分析
+    trend: トレンド分析
+    tool: ツール
+  dropdowmenu:
+    setting: 設定
+    team: メンバー管理
+    payment: 契約管理
+    logout: ログアウト
+    password_setting: パスワード設定
+  footer:
+    term: 利用規約
+    privary: プライバシーポリシー
+    transactions: 特定商取引法に基づく表記
+    copyright: ©2023 EDWARD AND COMPANY Co., Ltd. KSB Co., Ltd.
+  notification:
+    message_success: 処理に成功しました。
+    message_error: 処理に失敗しました。
+    message_warning: 設定の警告
+    btn_setting: 設定
+  loading:
+    loading_list: 読み込み中
+    loading_registration: 少々お待ちください
+    loading_trend: 分析中
+  specification_list:
+    option: カスタム
+    past_7_day: 過去7日間
+    past_14_day: 過去14日間
+    past_month: 過去１ヶ月
+  search_video:
+    number_of_views: 再生回数
+    post_date: 投稿日
+    high_rating: 高評価
+    number_of_comments: コメント数
+    channel_name: チャンネル名
+    coefficient: 係数
+    considered_excellent: 以上を優良とする
+    judgment_criteria: 優良判定基準
+    placeholder_coefficient: 初期値：3.0
+    basic_info: 基本情報
+    title_analysis: タイトル分析
+    summary_analysis: 概要分析
+    keyword_analysis: キーワード分析
+    btn_compare_video: 比較リストに追加する
+    count_video: 最大で%{count}本まで追加可能
+    category: カテゴリ
+    language: 言語
+    overview: 概要
+    topics: トピックス
+    title_tooltip1: 優良判定基準について
+    title_tooltip2: キーワードについて
+    msg_tooltip1: 動画が優良かどうか係数を使用して判定します。優良の基準としたい係数を小数点第1位まで指定してください。設定した数値以上の係数を目立たせます。特に指定がない場合、3.0を基準として判定します。
+    msg_tooltip2: 分析したいキーワードの他にチャンネルIDや動画URLを入力して検索することも可能です。
+    msg_error_add_list_compare: この動画は、すでに比較リストにはいっています。
+
+  search_panel:
+    good_number: 優良数：
+    average_number: 平均再生回数：
+    average_coefficient: 平均係数：
+    coefficient: 係数
+    order: 昇順
+    btn_csv: CSV出力
+    number_of_subscribers: チャンネル登録者数：
+    all: すべて
+    channel_option_one: 50,000人以上
+    channel_option_two: 40,000~49,999人
+    channel_option_three: 30,000～39,999人
+    channel_option_four: 10,000～29,999人
+    channel_option_five: 10,000人未満
+    chanel_value: （%{count}件）
+  item_video:
+    number_of_views: 再生回数：
+    post_date: 投稿日：
+    high_rating: 高評価：
+    number_of_comments: コメント数：
+    channel_name: チャンネル名：
+    number_of_registrants: 登録者数：
+    number_of_videos: 動画本数：
+    total_number_of_views: 総再生回数：
+    oppening_date: 開設日：
+    analyze_video: この動画を分析する
+    watch_video: Youtubeで見る
+  sort:
+    ascending_order: 昇順
+    descending_order: 降順
+  sort_video:
+    number_of_view: 再生回数
+    number_of_ratings: 高評価数
+    coefficient: 係数
+    opening_date: チャンネル開設日
+    number_of_subscribers: チャンネル登録者数
+    show_excellent_quality: 優良のみ表示
+  units:
+    view_time: 回視聴
+    pieces: 件
+    ten_thousand: 万
+    subject: 件
+    ten_thousand_people: 万人
+    book: 本
+    people: 人
+    time: 回
+    status_searching: ー 件
+  drawer_video:
+    heading: 動画分析
+  frequentwords:
+    title: 頻出ワード
+    noun: 名詞
+    verb: 動詞
+    adjective: 代名詞限定
+    other: 他
+    see_suggestions: サジェストを見る
+    note: ※リアルタイムの分析結果のため、検索日時によって誤差が出ます。
+    error_loading: 読み込むエラー
+    msg_1: 再試行するには
+    msg_2: してください
+    link: タップ
+  analysis_keyword:
+    desc_keyword: ※契約中のプランの場合、キーワード分析できる回数はチーム全体で１日%{max}回までです。なお、1週間以内に分析したワードだった場合、回数計算から除外されます。
+    note_keyword: 推移を見たいキーワードを、最大5つまで選択できます。
+    trend_keyword: 選択したキーワードのトレンド推移
+    copy_keyword: 全てのキーワードをコピーして選択肢として表示する
+    notify: ※この動画にはキーワードがないため分析できません。
+    limit_search_one: 今日の連携回数の上限に達したか、サーバーでエラーが発生したため、本システムでは表示できません。
+    limit_search_two: 推移を見たい場合は、下記リンクからGoogleトレンドに移動してください。
+    google_link: Googleトレンドに移動する
+    btn_submit: 調べる
+    msg_copied: 全てキーワードをコピーしました。
+  period_list:
+    please_select: 期間を選択してください
+    one_year: １年間
+    three_year: 3 年間
+    five_year: 5年間
+  line_chart:
+    traffic: Traffic
+    payments: Payments
+  notify:
+    msg_function_lock: チームプランでのみ利用可能な機能です。こちらの機能をご利用いただくには、チームプランをご契約ください。
+  drawer_compare:
+    button: 比較する
+    empty: リストを空にする
+    total: 合計
+    book: 本
+  search_type:
+    all: 全て
+    search_video: 動画検索
+    search_channel: チャンネル検索
+  status:
+    valid: 有効
+    invalid: 無効
+    lock: ロック
+  upload_avatar:
+    max_size: 最大アップロードサイズ：10Mb
+    invalid_type: ファイル形式エラーで画像をアップロードできません。
+  modal_suggest:
+    title: %{word}のサジェスト
+    desc_one: 1日のサジェスト取得回数に上限があります。
+    desc_two: フリープラン：3回｜個人プラン：50回｜チームプラン：無制限
+    desc_three: ※ただし、同日中に一度取得している単語だった場合、回数にカウントしません。
+  modal_paid_member:
+    desc: ここから先は有料会員のみご覧いただけます
+    btn: 有料プラン登録
+  modal_export_csv:
+    title: CSVファイル出力
+    content: CSV出力してよろしいでしょうか?
+    okText: CSVファイル出力
+    cancelText: キャンセル
+  help:
+    text: ヘルプ
+    title: お困りの時はお問い合わせください。
+    support_site_url: サポートサイト
+  logout:
+    title: ログアウト確認
+    description: 再ログインするまで機能が利用できません。ログアウトしますか？
+    btn_confirm: ログアウト
+    btn_cancel: ログアウトしない
+pages:
+  login:
+    title: ログイン
+    subtitle: 登録したメールアドレスとパスワードを入力し「ログイン」ボタンを押してください。
+    email: メールアドレス
+    password: パスワード
+    forgot_password: パスワードをお忘れですか？
+    msg_email_invalid: 正しい形式のメールアドレスを入力してください。
+    msg_block_user_parent: アカウントが一時的にロックされました。%{time}分後に再度お試しください。
+    msg_block_user_children_first: アカウントがロックされました。
+    msg_block_user_children_second: メインアカウントにロック解除手続きの依頼をするか、%{time}分後に再度ログインをお試しください。
+    msg_wrong_email_password: メールアドレスまたはパスワードが違います。
+    msg_google_api_key: "GoogleAPIキーの設定がされていないため、検索できません。\n設定画面にて、GoogleAPIキーを設定してください。"
+    msg_admin: このページはサービス管理者向けのログインページです。
+    heading_modal: 警告
+  signup:
+    title: 新規登録
+    subtitle1: YT Scholarを利用するためには、登録が必要です。
+    subtitle2: 以下の項目にご記入の上、「新規登録」ボタンを押してください。
+    avatar: プロフィール画像
+    last_name: 姓
+    first_name: 名
+    company: 会社名
+    phone_number: 携帯番号
+    email: メールアドレス
+    password: パスワード（半角英数混在8～32文字）
+    password_placeholder: パスワード
+    password_confirmation: パスワード再入力
+    password_confirmation_placeholder: パスワード（確認用）
+    terms: 利用規約
+    privacy: プライバシーポリシー
+    end: と
+    agree: に同意する
+    submit: 入力内容の確認
+    title_complete: 仮登録が完了しました。
+    sub_title_complete1: 入力いただいたメールアドレス宛に、本登録を行うためのURLを送付しました。
+    sub_title_complete2: 届いたメールに記載のURLから、アカウントの本登録を完了させてください。
+    sub_title_complete3: ※仮登録受付完了メールが届かない場合、
+    sub_title_complete4: 入力したメールアドレスが間違っている可能性があります。
+    sub_title_complete5: 再度、最初から新規登録をお願いいたします。
+    quit_registration: 登録を辞める
+    back: 登録内容を修正する
+    close_this_screen: この画面を閉じる
+    step1: 入力
+    step2: 確認
+    step3: 仮登録
+    validate:
+      password_confirmation: 入力されたパスワードが一致しません。正しいパスワードを再度入力してください。
+      password_regex: パスワードは英数字を含む8~32文字で入力してください
+      email: 正しい形式のメールアドレスを入力してください。
+      email_require: 入力されたメールアドレスは既に利用されています。他のメールアドレスを入力してください。
+  user_setting:
+    title: 設定
+    basic_settings: 基本設定
+    account_info: アカウント情報
+    password_setting: パスワード設定
+    google_api_key: Google APIキー設定
+    instruct: APIキーの設定方法を確認する
+    desc1: ※ここに入力したAPIキーは、他のメンバーと共有しないでください。
+    desc2: 他のメンバーに共有した場合、1日の検索数が制限される場合があります。
+    region_settings: 地域の設定
+    submit: 保存
+    region_code: 地域の設定
+    relevance_language: 言語の設定
+    time_zone: タイムゾーンの設定
+    oauth_desc1: 検索機能を使う場合、Google APIキーの設定が必要です。
+    oauth_desc2: 自動設定または手動設定のどちらかを選んで設定してください。
+    successful_cooperation: 連携成功
+    msg_linked_google: Googleアカウントと連携済みです。検索機能をご利用いただけます。
+    btn_sign_google: Sign in with Google
+    google_api_setting: Google APIの設定
+    google_auto: 自動設定
+    google_manual: 手動設定
+    msg_oauth1: ※YT ScholarではGoogle APIキーの作成だけを行います。
+    msg_oauth2: 　Google cloud上のデータへのアクセスおよび削除は行いません。
+    step1:
+      title: ステップ１：
+      desc1: YouTube Data APIを使用するためには、Googleの管理プラットフォームであるGoogle Cloud Consoleでいくつかの手順を実行する必要があります。まず、プロジェクトを作成し、Googleの利用規約に同意する必要があります。以前に同意している場合、この手順は省略できます。まだ同意していない場合は、
+      desc2: をクリックして同意して続行してください。
+      link: こちらのリンク
+    step2:
+      title: ステップ 2：
+      desc: Google Cloud policyに同意した後、以下のボタンをクリックし、先程同意したアカウントを選択してください。YouTube Data APIの作成プロセスは自動的に進行し、プロセスが完了するとYouTube Data APIの機能を利用できるようになります。
+    google_logged:
+      desc1: Google APIキーを削除したい場合は
+      desc2: をクリックしてください。削除後は再度Google APIキーの設定が必要です。
+      action: こちら
+    messages:
+      update_api_key_success: Google APIキーと地域の設定が完了しました。
+      update_api_key_error: 入力されたAPIキーは既に利用されています。他のAPIキーを入力してください。
+      search_setting_success: 検索設定が完了しました。
+      search_setting_error: 検索設定に失敗しました。再度お試しください。
+      oauth_google_success: 検索APIキー設定が完了しました。
+      oauth_google_error: 検索APIキー設定に失敗しました。再度お試しください。
+      oauth_google_limit: Google APIキーの設定に失敗しました。お使いのGoogleアカウントで作成できるプロジェクト数の上限に達しています。別のアカウントを選択して再度お試しください。
+      region_tooltip: 指定した国で視聴可能な動画とチャンネルの検索結果を返します。
+      language_tooltip: 指定した言語に最も関連性の高い検索結果を返します。
+      timezone_tooltip: 地球上のすべての場所は、UTC(協定世界時)からの時差区分によるいずれかの地域に属しています。 この地域のことを「標準時間帯」、タイムゾーンと言います。日本に住んでいる場合は、「日本標準時」を選択してください。
+      first_oauth_google_error: YouTube Data APIを使用するためには、Google Cloud Consoleのポリシーに同意する必要があります。
+      last_oauth_google_error: をクリックして同意した後にもう一度試してください。
+      link_oauth_google: https://console.cloud.google.com/getting-started
+    search_settings: 検索の設定
+  guide:
+    title: APIキーの設定方法を確認する
+  analysis:
+    title: キーワード分析
+    tab_video: 動画検索
+    tab_channel: チャンネル検索
+    key_work: キーワード
+    key_work_placeholder: 分析したいキーワードを入力してください。
+    search_conditions: 検索条件
+    period_specification: 期間指定
+    search: 検索
+    search_results: 検索結果
+    pieces: 件
+    dowload_csv: CSV出力
+    note_limit: 有料プラン契約者限定の機能です。
+    channel:
+      relevance: 関連度
+      relevance_value: relevance
+      number_of_views: 再生回数
+      number_of_views_value: viewCount
+      custom: カスタム
+      7_days: 過去7日間
+      14_days: 過去14日間
+      1_month: 過去１ヶ月間
+      playback_times: 再生回数
+      playback_times_value: viewCount
+      channel_open_day: チャンネル開設日
+      channel_open_day_value: publishedAt
+      number_of_channels_registered: チャンネル登録者数
+      number_of_channels_registered_value: subscriberCount
+      ascending_order: 昇順
+      descending_order: 降順
+      ascending_value: asc
+      descending_value: desc
+      channel_analysis: チャンネル分析
+      overview_channel: チャンネル概要
+      url: カスタムURL
+      opening_date: チャンネル開設日
+      summary_view: 総再生回数
+      registrants: 登録者数
+      video_count: 動画本数
+      brand_information: ブランド情報
+      brand_overview: ブランド概要
+      keyword: キーワード
+      country: 国
+      tab_basic_information: 基本情報
+      tab_channel_overview_analysis: チャンネル概要分析
+      tab_video_title_analysis: 動画タイトル分析
+      see_more: もっと見る
+      analysis_conditions: 分析条件
+      analysis_conditions_note: ※再生回数上位50件の中から係数が最も大きい10件を分析
+      movie: 動画
+      under_conditions: この条件で分析する
+      coefficient_view_placeholder: 初期値：30,000
+    channel_item:
+      coefficient: 係数
+      overview_of_channel: チャンネル概要：
+      registrants: 登録者数：
+      video_count: 動画本数：
+      summary_view: 総再生回数：
+      opening_date: 開設日：
+      analyze: このチャンネルを分析する
+      people: 人
+      book: 本
+      viewed_times: 回視聴
+      average_number: 平均再生回数
+    no_overview: ※ 概要なし
+  activate:
+    title_success: 本登録完了
+    desc_success1: 本サービスに登録いただき、ありがとうございます。
+    desc_success2: 本登録を完了しました。下記のボタンをクリックして
+    desc_success3: ログイン画面を開き、ログインしてください。
+    button_success: ログイン画面を開く
+    title_fail: 本登録失敗
+    desc_fail1: クリックいただいたリンクの有効期限が切れており、本登録を完了できません。
+    desc_fail2: 恐れ入りますが、新規登録画面に戻り仮登録からもう一度やり直してください。
+    button_fail: 新規登録画面に戻る
+  trends:
+    title: トレンド分析
+  search:
+    title: ツール
+    tab_history: 検索履歴
+    tab_suggestions: サジェストワード
+    target_period: 対象期間
+    search_type: 使用機能
+    keyword: キーワード
+    search_date: 検索日時
+    link_search: 再検索
+  account-setting:
+    title: 契約情報
+    tab_plan: プラン変更
+    tab_withdrawal: 退会申請
+  manage-members:
+    title: メンバー管理
+  forgot-password:
+    title: パスワード再設定
+    subtitle1: ご登録済みのメールアドレスを入力してください。
+    subtitle2: パスワードを再設定するためのメールを送信します。
+    submit: パスワード再設定メールを送信する
+    title_success: パスワード再設定メール送信完了
+    sub_title_success1: 入力したメールアドレス宛に、パスワード再設定用のURLを
+    sub_title_success2: 送付しましたのでご確認ください。
+    sub_title_success3: URLの有効期限は30分間となります。
+    button_success: ログイン画面に戻る
+  reset-password:
+    title: パスワード再設定
+    sub_title: パスワードを再設定します。希望するパスワードを入力してください。
+    button: パスワードを設定する
+    password: パスワード
+  compare:
+    title: 動画比較
+    end_compare: 動画比較を終了する
+    check_all: すべての動画をチェックする
+    uncheck_all: すべてのチェックを外す
+    compare_setting: 比較項目設定
+    frequent_words: 頻出ワード
+    lower_limit: 下限
+    times: 回
+    submit: 選択した項目を表示する
+    comparing_results: 比較結果
+    video_title: タイトル
+    coefficient: 係数
+    view: 再生回数
+    high_rating: 高評価
+    publish_date: 投稿日
+    registrants: 登録者数
+    keyword: キーワード
+    word: 頻出ワード
+    popconfirm:
+      title: 削除の実行
+      text: 本当に削除を実行しますか？
+  subaccounts:
+    title: メンバー管理
+    btn_add_member: メンバー追加
+    pop_title: メンバー追加について
+    pop_desc_one: 追加できるメンバー数に上限があります。各メンバーのステータスが有効とロック合わせて5つまでとなります。新たに追加したい場合は、有効から無効に変更してください。
+    pop_desc_two: ※無効にすると無効になったメンバーは本サービスを利用できなくなります。
+    name: 名前
+    last_login: 最終ログイン日時
+    number_search: 検索回数
+    status: ステータス
+    btn_detail: 詳細
+    no_data: データがありません。
+  suggestions:
+    key_work: 単語
+    placeholder: サジェストを見たい単語を入力してください。
+    button: サジェストを取得する
+    note1: 1日のサジェスト取得回数に上限があります。
+    note2: フリープラン：3回｜個人プラン：50回｜チームプラン：無制限
+    note3: ※ただし、同日中に一度取得している単語だった場合、回数にカウントしません。
+    note4: 入力した単語と一緒に検索されているサジェストを分析し、検索回数に応じた大きさで表示しています。
+    note5: 単語をクリックすると、選択した単語と一緒に検索されるサジェストを表示します。
+  create_subaccount:
+    title: メンバー管理
+    sub_title: メンバー追加
+    confirm: 入力内容の確認
+    submit: 作成
+    back: メンバー一覧画面へ戻る
+    title_success: メンバー追加完了
+    note: 以下のメールアドレス宛に、パスワードをお送りしましたのでご確認お願いいたします。
+    name: 名前
+    company: 会社名
+    phone: 電話番号
+    email: メールアドレス
+    email_require: %{field}の作成に失敗しました。アカウント情報を再度ご確認ください。
+    finish: 完了
+  subaccounts_detail:
+    status:
+      valid: 無効にする
+      invalid: 有効にする
+      lock: ロックを解除する
+    email_address: メールアドレス
+    last_login: 最終ログイン日時
+    status_label: ステータス
+    phone: 電話番号
+    target_period: 検索履歴
+    complete: 全
+    pieces: 件
+    date_time: 検索日時
+    keyword: 検索キーワード
+    func: 使用機能
+    lock_time: ロック時間
+    lock_data: ロック日付
+    note_add_new_accout_1: 有効数の上限%{field}人に達しているため変更できません。変更したい
+    note_add_new_accout_2: 場合は、他のメンバーを無効にしてください。
+    tooltip_title: ステータスについて
+    tooltip_desc1: ステータスの種類と意味
+    tooltip_desc2: ・有効：利用できる
+    tooltip_desc3: ・無効：利用停止
+    tooltip_desc4: ・ロック：ログイン間違い
+  change_password:
+    current_password: 現在のパスワード
+    current_password_placeholder: 現在のパスワードを入力してください。
+    password: 新しいパスワード
+    password_confirmation: 新しいパスワード（確認用）
+    message_success: パスワードの変更が完了しました。
+    validate:
+      password_confirmation: 新パスワードと再入力パスワードが一致しません。
+  admin_user:
+    title: 契約者一覧
+    plan:
+      free: フリープラン
+      personal: 個人プラン
+      team: チームプラン
+    filter:
+      all: 全て
+      free: フリー
+      personal: 個人
+      team: チーム
+    plan_label: プラン
+    pieces: 件
+    company: 会社名
+    phone: 電話番号
+    email: メール
+    mobile_number: 携帯電話番号
+    plan_under_contract: 契約中のプラン
+    registration_date: 登録日
+    expiry_date: 利用期限
+    childe: 子アカウント数
+    last_login_datetime: 最終ログイン日時
+  payment:
+    title: YT Sholar利用プランのご案内
+    subTitle: 決済時にはブラウザを閉じないでください。
+    subTitle_label: ※ご注意：
+    title_free: フリープラン
+    title_personal: 個人プラン
+    title_team: チームプラン
+    price: ¥
+    note_price: (月額・税込み)
+    note_price_1: ※外部の決済サービスへ移動します。
+    note_price_2: ※ボタンを押してもまだ決済されません。
+    btn_change_plan: このプランに変更する
+    btn_use_plan: 現在ご利用中
+    tooltip: フリープランに変更したい場合は、契約管理画面をご確認ください。
+    service_free:
+      service_1: チームメンバー登録
+      service_2: 検索回数は1日10回
+      service_3: 検索結果取得は最大10件
+      service_4: 検索結果のCSV出力
+      service_5: 検索履歴機能
+      service_6: 頻出ワードのサジェスト検索回数1日3回まで
+      service_7: サジェストワード取得速度遅い
+      service_8: 分析キーワードのトレンド推移検索
+      service_9: トレンド推移検索結果のチーム内共有
+      service_10: サジェストワード機能1日3回まで
+      service_11: 動画比較機能
+    service_personal:
+      service_1: チームメンバー登録
+      service_2: 検索回数は1日50回
+      service_3: 検索結果取得は最大50件
+      service_4: 検索結果のCSV出力
+      service_5: 検索履歴機能
+      service_6: 頻出ワードのサジェスト検索回数1日50回まで
+      service_7: サジェストワード取得速度普通
+      service_8: 分析キーワードのトレンド推移検索 1日50回まで
+      service_9: トレンド推移検索結果のチーム内共有
+      service_10: サジェストワード機能1日20回まで
+      service_11: 1度に10本の動画比較
+    service_team:
+      service_1: チームメンバー登録5人まで
+      service_2: 検索回数は1日50回
+      service_3: 検索結果取得は最大50件
+      service_4: 検索結果のCSV出力
+      service_5: 検索履歴機能
+      service_6: 頻出ワードのサジェスト検索回数無制限
+      service_7: サジェストワード取得速度早い
+      service_8: 分析キーワードのトレンド推移検索1日50回まで
+      service_9: トレンド推移検索結果のチーム内共有
+      service_10: サジェストワード機能制限なし
+      service_11: 1度に10本の動画比較
+  withdrawal:
+    title: YT Scholarの退会を申請します。
+    sub_title_1: 退会されるアカウント情報
+    sub_title_2: ※付随する子アカウントも同時に削除します。
+    name: 名前
+    email: メールアドレス
+    child_count: 子アカウント数
+    title_note: 退会の申請前にご確認ください
+    note_1: YT
+      Scholarから退会すると、アカウント情報と利用データが完全に削除されます。
+      削除したアカウントとデータは復旧できませんのでご注意ください。
+    note_2: 退会申請後、所定の手続きのため1週間ほどお時間を頂戴しております。
+      手続きの終了後に正式に退会となります。そのため、月末に申請を行った場合、
+      翌月の退会となることがございます。
+    note_3: 退会手続きを完了した当月の利用料金は、退会した日時にかかわらず当月分として発生します。日割り計算は対応しておりません。あらかじめご了承ください。
+    button_withdrawal: 退会申請
+    button_change_plan_to_free: 退会しないで、無料プランに変更する
+    modal_withdrawal:
+      title: 解約確認
+      body: 「yt-scholar」を退会しますか？退会する場合は、退会対象アカウントのパスワードを入力してください。
+      button_close: キャンセル
+      button_submit: 解約申請
+    modal_change_plan_to_free:
+      title: 確認
+      body: フリープランへ変更しますか？プラン変更をする場合は、対象アカウントのパスワードを入力してください。
+      password: パスワード
+      button_close: キャンセル
+      button_submit: OK
+    msg_success: 退会が完了しました。またのご利用をお待ちしております。
+  '404':
+    title: ページが見つかりません
+others:
+  description: 属人化しないチャンネル運営と収益化を目指すためのYoutube分析ツール
+  development1: この機能は、現在開発中です。
+  development2: 公開までしばらくお待ちください。
+  noti_development: この機能を開発しています。お待ちください。
+  preview: プレビュー
+  empty: ー
+  no_data: 検索結果がありません。
+  no_data2: データがありません。

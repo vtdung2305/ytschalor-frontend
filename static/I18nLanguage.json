@@ -1,0 +1,753 @@
+{
+  "kind": "youtube#i18nLanguageListResponse",
+  "etag": "HiNANIgZGDgBEs0ELlHPkE2tMHE",
+  "items": [
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "aEx7N6b0H6c-dq1-QsP43SwuduY",
+      "id": "af",
+      "snippet": {
+        "hl": "af",
+        "name": "アフリカーンス語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "sU2vQQxqfdB-_JQaaWJ3P3NVtRA",
+      "id": "am",
+      "snippet": {
+        "hl": "am",
+        "name": "アムハラ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "JiPtVNMtDxN_E9a0wP2Jv54V-7o",
+      "id": "ar",
+      "snippet": {
+        "hl": "ar",
+        "name": "アラビア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "pMHUkFfGIStIebUHOLh6kTNeRnw",
+      "id": "as",
+      "snippet": {
+        "hl": "as",
+        "name": "アッサム語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "DKJIrgbDOOBWIEzMDUzUvu9zko8",
+      "id": "az",
+      "snippet": {
+        "hl": "az",
+        "name": "アゼルバイジャン語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "QjGnCJfQ5nu_RVganO6iHRLWF_M",
+      "id": "be",
+      "snippet": {
+        "hl": "be",
+        "name": "ベラルーシ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "rBCkLOJtM9kw1Acfb7z0qKWOi58",
+      "id": "bg",
+      "snippet": {
+        "hl": "bg",
+        "name": "ブルガリア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "rfvifnuABbV4BA-qbbsvd8OGCC8",
+      "id": "bn",
+      "snippet": {
+        "hl": "bn",
+        "name": "ベンガル語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "4xuZXlIcERLRuDyRjJnPRO4GNoA",
+      "id": "bs",
+      "snippet": {
+        "hl": "bs",
+        "name": "ボスニア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "F7veDTzOIpDhJrypwxv1btDNi64",
+      "id": "ca",
+      "snippet": {
+        "hl": "ca",
+        "name": "カタロニア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "mIFyAnHb1_eEIe2NE3i5SiAErTM",
+      "id": "cs",
+      "snippet": {
+        "hl": "cs",
+        "name": "チェコ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "JlC1OQfSk4iWkSGBqxh0MYUA-M8",
+      "id": "da",
+      "snippet": {
+        "hl": "da",
+        "name": "デンマーク語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "4wRsoPDIcvorfdpo6AZzPGmltjI",
+      "id": "de",
+      "snippet": {
+        "hl": "de",
+        "name": "ドイツ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "i6FG0g0aFDqTv99i-GPiXZ6IZAM",
+      "id": "el",
+      "snippet": {
+        "hl": "el",
+        "name": "ギリシャ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "wQPovQoZeQM6HWUUCxSQ-aNtjlQ",
+      "id": "en-GB",
+      "snippet": {
+        "hl": "en-GB",
+        "name": "英語 (イギリス)"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "13P8ETQcyPQaQFV7Y72ig3zkNck",
+      "id": "en-IN",
+      "snippet": {
+        "hl": "en-IN",
+        "name": "英語 (インド)"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "2bGvmEa6oUiY-vFU3RoXrRkCxyw",
+      "id": "en",
+      "snippet": {
+        "hl": "en",
+        "name": "英語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "LUOlv8YA_bR16wSoEqT4atEeKHQ",
+      "id": "es",
+      "snippet": {
+        "hl": "es",
+        "name": "スペイン語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "Vd2rQOhY23bxGiuhjoq1lzCbow8",
+      "id": "es-419",
+      "snippet": {
+        "hl": "es-419",
+        "name": "スペイン語 (ラテンアメリカ)"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "m2yZxNr1mPEmtjQLtIWb9gzHxk0",
+      "id": "es-US",
+      "snippet": {
+        "hl": "es-US",
+        "name": "スペイン語 (アメリカ合衆国)"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "d2d10JskTyFpRme3m0Hl0v5neno",
+      "id": "et",
+      "snippet": {
+        "hl": "et",
+        "name": "エストニア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "8HcKgk8igVSTfY6A3rUU2hBVlSQ",
+      "id": "eu",
+      "snippet": {
+        "hl": "eu",
+        "name": "バスク語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "5Kz_MY19d4qqocDNJc75NLHq9OU",
+      "id": "fa",
+      "snippet": {
+        "hl": "fa",
+        "name": "ペルシア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "QwSYKkE0R_EVYc3ezd1nhbEwgqM",
+      "id": "fi",
+      "snippet": {
+        "hl": "fi",
+        "name": "フィンランド語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "_oE1DiHEg-eAbOofnVVwz2aZl04",
+      "id": "fil",
+      "snippet": {
+        "hl": "fil",
+        "name": "フィリピノ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "aLtQRjes1IdZbKH-2cTQvbLhZe4",
+      "id": "fr-CA",
+      "snippet": {
+        "hl": "fr-CA",
+        "name": "フランス語 (カナダ)"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "bd4BHv3uNS3MHbvmDfFuY1ldpk4",
+      "id": "fr",
+      "snippet": {
+        "hl": "fr",
+        "name": "フランス語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "j3tcQggE_7IuiLhMkym8RaKPdLw",
+      "id": "gl",
+      "snippet": {
+        "hl": "gl",
+        "name": "ガリシア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "0prg4p3bowbfaD1Xxlo1BYEQbEw",
+      "id": "gu",
+      "snippet": {
+        "hl": "gu",
+        "name": "グジャラート語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "nM_W81tHb8qFCLUbiDv0xcjV9lc",
+      "id": "hi",
+      "snippet": {
+        "hl": "hi",
+        "name": "ヒンディー語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "S0Dxn7lNQ52dHGq45O62L_orbZ4",
+      "id": "hr",
+      "snippet": {
+        "hl": "hr",
+        "name": "クロアチア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "5iLEukfsae8OvVOsDg4P3NrEAKA",
+      "id": "hu",
+      "snippet": {
+        "hl": "hu",
+        "name": "ハンガリー語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "Dz9DLNHCZLc8HoEVmY4behJF7rI",
+      "id": "hy",
+      "snippet": {
+        "hl": "hy",
+        "name": "アルメニア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "u_BsRYL2jug3uvfqk1pATCsCh_o",
+      "id": "id",
+      "snippet": {
+        "hl": "id",
+        "name": "インドネシア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "OlabwRjyguPZVMN-lkZ4yGv4I0g",
+      "id": "is",
+      "snippet": {
+        "hl": "is",
+        "name": "アイスランド語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "ksBuoq4IZNg46rhq7Zsk-GBj2h8",
+      "id": "it",
+      "snippet": {
+        "hl": "it",
+        "name": "イタリア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "KiTrHqXw4ziCCx-ga8UO1gnLbX0",
+      "id": "iw",
+      "snippet": {
+        "hl": "iw",
+        "name": "ヘブライ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "akhEEEFPOi1hMJkB-XXBgSKY8Wo",
+      "id": "ja",
+      "snippet": {
+        "hl": "ja",
+        "name": "日本語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "QK2UOdAbScWRnGD-chEmuInskwM",
+      "id": "ka",
+      "snippet": {
+        "hl": "ka",
+        "name": "ジョージア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "9ryI6KeGZE5q3E3xVDglPGYk5RM",
+      "id": "kk",
+      "snippet": {
+        "hl": "kk",
+        "name": "カザフ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "44q9VuWGMpLqeq9PbDTZ0_JP5g8",
+      "id": "km",
+      "snippet": {
+        "hl": "km",
+        "name": "クメール語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "6_RbseNTrcNme08v-3yf9GWSq34",
+      "id": "kn",
+      "snippet": {
+        "hl": "kn",
+        "name": "カンナダ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "jKh5T9bg73pziH1-5eYrIeCM-y0",
+      "id": "ko",
+      "snippet": {
+        "hl": "ko",
+        "name": "韓国語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "TslE6aIuFyQwGe4jFMmg8Wd7Tt8",
+      "id": "ky",
+      "snippet": {
+        "hl": "ky",
+        "name": "キルギス語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "C6zStS_qMrnv9pIokz3HF7jgv4c",
+      "id": "lo",
+      "snippet": {
+        "hl": "lo",
+        "name": "ラオ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "JlJUv0yEFjJYf4Nyc-B8WB9vAZg",
+      "id": "lt",
+      "snippet": {
+        "hl": "lt",
+        "name": "リトアニア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "lKJC5lsiY45sAapo1Am7xePfZJg",
+      "id": "lv",
+      "snippet": {
+        "hl": "lv",
+        "name": "ラトビア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "ZED56OHR0lR5LmcuCyXoJ4E97Ak",
+      "id": "mk",
+      "snippet": {
+        "hl": "mk",
+        "name": "マケドニア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "gBov3KGEF8h1FF1sBsJ25eLhomQ",
+      "id": "ml",
+      "snippet": {
+        "hl": "ml",
+        "name": "マラヤーラム語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "-RDFYFCLkwXZXIYdOrpj2JX1Mzs",
+      "id": "mn",
+      "snippet": {
+        "hl": "mn",
+        "name": "モンゴル語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "SS99DCgSIgWjkKz8NcslNTBPX1k",
+      "id": "mr",
+      "snippet": {
+        "hl": "mr",
+        "name": "マラーティー語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "BJvOT_wcyTd1VA0ML3mH2BAvZag",
+      "id": "ms",
+      "snippet": {
+        "hl": "ms",
+        "name": "マレー語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "Ib48oPICqp-wKGN8Y7IzqjKyGo0",
+      "id": "my",
+      "snippet": {
+        "hl": "my",
+        "name": "ミャンマー語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "BDLGDEGtQp-43BrpcAwhJPNpIJ0",
+      "id": "no",
+      "snippet": {
+        "hl": "no",
+        "name": "ノルウェー語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "6MO7uvPrkw4QprnRv5LUav9iSok",
+      "id": "ne",
+      "snippet": {
+        "hl": "ne",
+        "name": "ネパール語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "mIjYGb4gHmizF2mAcQ4kDCOB4vI",
+      "id": "nl",
+      "snippet": {
+        "hl": "nl",
+        "name": "オランダ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "5GxtMadp-VDNt5c50honfvw6hMc",
+      "id": "or",
+      "snippet": {
+        "hl": "or",
+        "name": "オディア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "ktZlRSeTHM994jAwpUz8j0VVxak",
+      "id": "pa",
+      "snippet": {
+        "hl": "pa",
+        "name": "パンジャブ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "Kao_g6Fm0gSbzwNtjzhXXZjotTo",
+      "id": "pl",
+      "snippet": {
+        "hl": "pl",
+        "name": "ポーランド語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "xk4PaQL26HUisw3_jWPjdW55tpo",
+      "id": "pt",
+      "snippet": {
+        "hl": "pt",
+        "name": "ポルトガル語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "iqdlJKJ3yPtcjeRwKSWRd7PM4wk",
+      "id": "pt-PT",
+      "snippet": {
+        "hl": "pt-PT",
+        "name": "ポルトガル語 (ポルトガル)"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "rl85YzQ-KyNXSpGU-FeDP3iWlLk",
+      "id": "ro",
+      "snippet": {
+        "hl": "ro",
+        "name": "ルーマニア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "4SITMxvBIjLEbwMcqHRmKUV36qQ",
+      "id": "ru",
+      "snippet": {
+        "hl": "ru",
+        "name": "ロシア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "U40DZDirMvWJqryUde5OZmd_SwA",
+      "id": "si",
+      "snippet": {
+        "hl": "si",
+        "name": "シンハラ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "lTkQpSCqoo_cJNMh1qzgMJcJk_Q",
+      "id": "sk",
+      "snippet": {
+        "hl": "sk",
+        "name": "スロバキア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "g9JU40UFivUclXHQUbLSacY6rVw",
+      "id": "sl",
+      "snippet": {
+        "hl": "sl",
+        "name": "スロベニア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "FEow7Dj-o078uoY7jscHpMK0WV0",
+      "id": "sq",
+      "snippet": {
+        "hl": "sq",
+        "name": "アルバニア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "UTbKcGMJNtG3FVuIj9lnYctEmbY",
+      "id": "sr-Latn",
+      "snippet": {
+        "hl": "sr-Latn",
+        "name": "セルビア語 (ラテン文字)"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "VP9E5p05FMlDsuO8HPka7iA_Qig",
+      "id": "sr",
+      "snippet": {
+        "hl": "sr",
+        "name": "セルビア語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "94Gh1xxh1JzgK3bc4_tDvztjzvQ",
+      "id": "sv",
+      "snippet": {
+        "hl": "sv",
+        "name": "スウェーデン語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "RPW7wJG6Ec5RLC2zxvOilaHjKgU",
+      "id": "sw",
+      "snippet": {
+        "hl": "sw",
+        "name": "スワヒリ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "Zf43MxFT9C1sB0vPPee9Zzos8UE",
+      "id": "ta",
+      "snippet": {
+        "hl": "ta",
+        "name": "タミル語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "1pTnHlLR_PSYv6vEaWdTJukIQWU",
+      "id": "te",
+      "snippet": {
+        "hl": "te",
+        "name": "テルグ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "k12C9uy6xBgZ0BrNOpJS-cYyp4o",
+      "id": "th",
+      "snippet": {
+        "hl": "th",
+        "name": "タイ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "VJD2DthD866QUnz_x_NVqciiM7g",
+      "id": "tr",
+      "snippet": {
+        "hl": "tr",
+        "name": "トルコ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "PJ8msUAyxmq0RpBOa2E9Et9ybsA",
+      "id": "uk",
+      "snippet": {
+        "hl": "uk",
+        "name": "ウクライナ語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "1ZXFrYy5evPAVWo1En9k-YpXEkA",
+      "id": "ur",
+      "snippet": {
+        "hl": "ur",
+        "name": "ウルドゥー語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "etUYERLwx1e32afFQUNZIqCVRJw",
+      "id": "uz",
+      "snippet": {
+        "hl": "uz",
+        "name": "ウズベク語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "3F297Y76I2v0MWNNoVzb7jyjhOk",
+      "id": "vi",
+      "snippet": {
+        "hl": "vi",
+        "name": "ベトナム語"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "M1LNwzzrDYY2Qz3wr7jr4ri5-FQ",
+      "id": "zh-CN",
+      "snippet": {
+        "hl": "zh-CN",
+        "name": "中国語 (中国)"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "2h6goJkoA4Wt3Pl4NmRzbW6bRCM",
+      "id": "zh-HK",
+      "snippet": {
+        "hl": "zh-HK",
+        "name": "中国語 (香港)"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "xfOEkVSn-qoXma-ALpwUZ_SV6AQ",
+      "id": "zh-TW",
+      "snippet": {
+        "hl": "zh-TW",
+        "name": "中国語 (台湾)"
+      }
+    },
+    {
+      "kind": "youtube#i18nLanguage",
+      "etag": "3RDumUpT_wMuC2OQSYfFa6dQpZs",
+      "id": "zu",
+      "snippet": {
+        "hl": "zu",
+        "name": "ズールー語"
+      }
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+.ant-notification-notice .ant-notification-notice-description,
+.ant-modal-confirm-content {
+  white-space: pre-line;
+}
+
+.openMenu {
+  overflow: hidden;
+}
+
+// .ant-drawer .ant-drawer-close {
+//   width: 35px;
+//   height: 35px;
+//   position: absolute;
+//   top: -1px;
+//   z-index: 6;
+//   left: -35px;
+//   background-color: $color_black2;
+
+//   .anticon {
+//     font-size: 28px;
+//     color: $color_white;
+//   }
+// }
+
+.c-tbl {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 16px;
+
+  thead {
+    tr {
+      th {
+        font-size: 14px;
+        font-weight: 400;
+        color: $color_black2;
+        line-height: 24px;
+        padding: 8px 0;
+      }
+    }
+  }
+
+  tbody {
+    tr {
+      td,
+      th {
+        padding: 15px 0;
+        // text-align: left;
+
+      }
+
+      &:first-child {
+        td,
+        th {
+          border-top: 1px solid $color_gray1;
+        }
+      }
+    }
+  }
+
+  &.bordered {
+    tbody {
+      tr {
+        td,
+        th {
+          border-bottom: 1px solid $color_gray1;
+        }
+      }
+    }
+  }
+
+  // &.blurry {
+  //   td {
+  //     color: transparent;
+  //     text-shadow: 0 0 8px $color_black2;
+  //   }
+
+  //   .c-link {
+  //     color: transparent;
+  //     text-shadow: 0 0 8px $color_blue;
+  //     border: none;
+  //   }
+  // }
+}
+
+.table-responsive {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+
+  &::-webkit-scrollbar {
+    display: block;
+  }
+}
+
+
+input:-webkit-autofill:disabled {
+  -webkit-box-shadow: 0 0 0 30px $color_gray4 inset !important;
+  -webkit-text-fill-color: #D9D9D9 !important;
+}
+
+.c-link {
+  color: $color_blue;
+  padding-bottom: 4px;
+  border-bottom: 2px solid $color_blue;
+  cursor: pointer;
+}
+
+.c-status {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 0 15px;
+  border-radius: 5px;
+
+  &.valid {
+    background-color: $color_blue2;
+    color: $color_white;
+  }
+
+  &.invalid {
+    background-color: $color_gray2;
+    color: $color_gray5;
+  }
+
+  &.lock {
+    background-color: $color_red2;
+    color: $color_white;
+  }
+
+  &.search {
+    background-color: $color_gray2;
+    color: $color_black2;
+  }
+}
+
+.c-plan {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 0 15px;
+  border-radius: 5px;
+
+  &.free {
+    background-color: $color_gray2;
+    color: $color_black2;
+  }
+
+  &.personal {
+    background-color: $color_yellow2;
+    color: $color_white;
+  }
+
+  &.team {
+    background-color: $color_blue3;
+    color: $color_white;
+  }
+}
+
+.c-line {
+  transition: opacity 0.3s ease-in-out;
+  cursor: pointer;
+
+  &.primary {
+    color: $color_blue;
+    border-bottom: 1px solid $color_blue;
+  }
+
+  &.warning {
+    color: $color_red2;
+    border-bottom: 1px solid $color_red2;
+  }
+
+  &:hover {
+    opacity: 0.6;
+  }
+}
+
+.blurry {
+  filter: blur(5px);
+}
+
+.modalConfirm {
+
+  .ant-modal-confirm-confirm .ant-modal-confirm-body>.anticon {
+    color: $color_blue;
+    font-size: 16px;
+    margin-right: 4px;
+  }
+
+  .ant-modal-content {
+    border-radius: 2px;
+  }
+
+  .ant-modal-confirm .ant-modal-confirm-btns {
+    text-align: center;
+    column-gap: 32px;
+    display: flex;
+    justify-content: center;
+
+    .ant-btn {
+      border-radius: 2px;
+
+      +.ant-btn {
+        margin-left: 0;
+      }
+
+      &.ant-btn-default {
+        color: $color_orange;
+        border-color: $color_orange;
+        transition: opacity .3s ease-in-out;
+        &:hover {
+          opacity: .6;
+        }
+      }
+    }
+  }
+
+  .ant-modal-confirm .ant-modal-confirm-body .ant-modal-confirm-title {
+    color: $color_black2;
+    font-weight: 400;
+  }
+
+  .ant-modal-confirm .ant-modal-confirm-body .ant-modal-confirm-title +.ant-modal-confirm-content {
+    max-width: 100%;
+    margin-left: 0;
+    color: $color_black2;
+    font-size: 16px;
+  }
+}

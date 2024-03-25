@@ -1,0 +1,416 @@
+[
+  {
+    "id": "1",
+    "timezone_name_en": "Africa/Johannesburg",
+    "timezone_name_ja": "南アフリカ標準時",
+    "timezone_offset": "+2"
+  },
+  {
+    "id": "2",
+    "timezone_name_en": "Africa/Lagos",
+    "timezone_name_ja": "西アフリカ時間",
+    "timezone_offset": "+1"
+  },
+  {
+    "id": "3",
+    "timezone_name_en": "Africa/Windhoek",
+    "timezone_name_ja": "西アフリカ時間",
+    "timezone_offset": "+1"
+  },
+  {
+    "id": "4",
+    "timezone_name_en": "America/Adak",
+    "timezone_name_ja": "ハワイ - アリューシャン標準時",
+    "timezone_offset": "-10"
+  },
+  {
+    "id": "5",
+    "timezone_name_en": "America/Anchorage",
+    "timezone_name_ja": "アラスカ標準時",
+    "timezone_offset": "-9"
+  },
+  {
+    "id": "6",
+    "timezone_name_en": "America/Argentina/Buenos_Aires",
+    "timezone_name_ja": "アルゼンチン時間",
+    "timezone_offset": "-3"
+  },
+  {
+    "id": "7",
+    "timezone_name_en": "America/Bogota",
+    "timezone_name_ja": "コロンビア時間",
+    "timezone_offset": "-5"
+  },
+  {
+    "id": "8",
+    "timezone_name_en": "America/Caracas",
+    "timezone_name_ja": "ベネズエラ時間",
+    "timezone_offset": "-4.5"
+  },
+  {
+    "id": "9",
+    "timezone_name_en": "America/Chicago",
+    "timezone_name_ja": "中部標準時",
+    "timezone_offset": "-6"
+  },
+  {
+    "id": "10",
+    "timezone_name_en": "America/Denver",
+    "timezone_name_ja": "山地標準時",
+    "timezone_offset": "-7"
+  },
+  {
+    "id": "11",
+    "timezone_name_en": "America/Godthab",
+    "timezone_name_ja": "西グリーンランド時間",
+    "timezone_offset": "-3"
+  },
+  {
+    "id": "12",
+    "timezone_name_en": "America/Guatemala",
+    "timezone_name_ja": "中部標準時",
+    "timezone_offset": "-6"
+  },
+  {
+    "id": "13",
+    "timezone_name_en": "America/Halifax",
+    "timezone_name_ja": "大西洋標準時",
+    "timezone_offset": "-4"
+  },
+  {
+    "id": "14",
+    "timezone_name_en": "America/Los_Angeles",
+    "timezone_name_ja": "太平洋標準時",
+    "timezone_offset": "-8"
+  },
+  {
+    "id": "15",
+    "timezone_name_en": "America/Montevideo",
+    "timezone_name_ja": "ウルグアイ時間",
+    "timezone_offset": "-3"
+  },
+  {
+    "id": "16",
+    "timezone_name_en": "America/New_York",
+    "timezone_name_ja": "東部標準時",
+    "timezone_offset": "-5"
+  },
+  {
+    "id": "17",
+    "timezone_name_en": "America/Noronha",
+    "timezone_name_ja": "フェルナンド・デ・ノローニャ時間",
+    "timezone_offset": "-2"
+  },
+  {
+    "id": "18",
+    "timezone_name_en": "America/Phoenix",
+    "timezone_name_ja": "山地標準時",
+    "timezone_offset": "-7"
+  },
+  {
+    "id": "19",
+    "timezone_name_en": "America/Santiago",
+    "timezone_name_ja": "チリ時間",
+    "timezone_offset": "-4"
+  },
+  {
+    "id": "20",
+    "timezone_name_en": "America/Santo_Domingo",
+    "timezone_name_ja": "大西洋標準時",
+    "timezone_offset": "-4"
+  },
+  {
+    "id": "21",
+    "timezone_name_en": "America/St_Johns",
+    "timezone_name_ja": "ニューファンドランド標準時",
+    "timezone_offset": "-3.5"
+  },
+  {
+    "id": "22",
+    "timezone_name_en": "Asia/Baghdad",
+    "timezone_name_ja": "アラビア標準時",
+    "timezone_offset": "+3"
+  },
+  {
+    "id": "23",
+    "timezone_name_en": "Asia/Baku",
+    "timezone_name_ja": "アゼルバイジャン時間",
+    "timezone_offset": "+4"
+  },
+  {
+    "id": "24",
+    "timezone_name_en": "Asia/Beirut",
+    "timezone_name_ja": "東ヨーロッパ時間",
+    "timezone_offset": "+2"
+  },
+  {
+    "id": "25",
+    "timezone_name_en": "Asia/Dhaka",
+    "timezone_name_ja": "バングラデシュ時間",
+    "timezone_offset": "+6"
+  },
+  {
+    "id": "26",
+    "timezone_name_en": "Asia/Dubai",
+    "timezone_name_ja": "湾岸標準時",
+    "timezone_offset": "+4"
+  },
+  {
+    "id": "27",
+    "timezone_name_en": "Asia/Irkutsk",
+    "timezone_name_ja": "イルクーツク時間",
+    "timezone_offset": "+9"
+  },
+  {
+    "id": "28",
+    "timezone_name_en": "Asia/Jakarta",
+    "timezone_name_ja": "西インドネシア時間",
+    "timezone_offset": "+7"
+  },
+  {
+    "id": "29",
+    "timezone_name_en": "Asia/Kabul",
+    "timezone_name_ja": "アフガニスタン時間",
+    "timezone_offset": "+4.5"
+  },
+  {
+    "id": "30",
+    "timezone_name_en": "Asia/Kamchatka",
+    "timezone_name_ja": "ペトロパブロフスクカムチャツキー時間",
+    "timezone_offset": "+12"
+  },
+  {
+    "id": "31",
+    "timezone_name_en": "Asia/Karachi",
+    "timezone_name_ja": "パキスタン時間",
+    "timezone_offset": "+5"
+  },
+  {
+    "id": "32",
+    "timezone_name_en": "Asia/Kathmandu",
+    "timezone_name_ja": "ネパール時間",
+    "timezone_offset": "+5.75"
+  },
+  {
+    "id": "33",
+    "timezone_name_en": "Asia/Kolkata",
+    "timezone_name_ja": "インド標準時",
+    "timezone_offset": "+5.5"
+  },
+  {
+    "id": "34",
+    "timezone_name_en": "Asia/Krasnoyarsk",
+    "timezone_name_ja": "クラスノヤルスク時間",
+    "timezone_offset": "+8"
+  },
+  {
+    "id": "35",
+    "timezone_name_en": "Asia/Omsk",
+    "timezone_name_ja": "オムスク時間",
+    "timezone_offset": "+7"
+  },
+  {
+    "id": "36",
+    "timezone_name_en": "Asia/Rangoon",
+    "timezone_name_ja": "ミャンマー時間",
+    "timezone_offset": "+6.5"
+  },
+  {
+    "id": "37",
+    "timezone_name_en": "Asia/Shanghai",
+    "timezone_name_ja": "中国標準時",
+    "timezone_offset": "+8"
+  },
+  {
+    "id": "38",
+    "timezone_name_en": "Asia/Tehran",
+    "timezone_name_ja": "イラン標準時",
+    "timezone_offset": "+3.5"
+  },
+  {
+    "id": "39",
+    "timezone_name_en": "Asia/Tokyo",
+    "timezone_name_ja": "日本標準時",
+    "timezone_offset": "+9"
+  },
+  {
+    "id": "40",
+    "timezone_name_en": "Asia/Vladivostok",
+    "timezone_name_ja": "ウラジオストク時間",
+    "timezone_offset": "+11"
+  },
+  {
+    "id": "41",
+    "timezone_name_en": "Asia/Yakutsk",
+    "timezone_name_ja": "ヤクーツク時間",
+    "timezone_offset": "+10"
+  },
+  {
+    "id": "42",
+    "timezone_name_en": "Asia/Yekaterinburg",
+    "timezone_name_ja": "エカテリンブルグ時間",
+    "timezone_offset": "+6"
+  },
+  {
+    "id": "43",
+    "timezone_name_en": "Atlantic/Azores",
+    "timezone_name_ja": "アゾレス時間",
+    "timezone_offset": "-1"
+  },
+  {
+    "id": "44",
+    "timezone_name_en": "Atlantic/Cape_Verde",
+    "timezone_name_ja": "カーボベルデ時間",
+    "timezone_offset": "-1"
+  },
+  {
+    "id": "45",
+    "timezone_name_en": "Australia/Adelaide",
+    "timezone_name_ja": "中部標準時 （南オーストラリア）",
+    "timezone_offset": "+9.5"
+  },
+  {
+    "id": "46",
+    "timezone_name_en": "Australia/Brisbane",
+    "timezone_name_ja": "東部標準時 （クイーンズランド）",
+    "timezone_offset": "+10"
+  },
+  {
+    "id": "47",
+    "timezone_name_en": "Australia/Darwin",
+    "timezone_name_ja": "中部標準時 （ノーザンテリトリー）",
+    "timezone_offset": "+9.5"
+  },
+  {
+    "id": "48",
+    "timezone_name_en": "Australia/Eucla",
+    "timezone_name_ja": "中西部標準時 （オーストラリア）",
+    "timezone_offset": "+8.75"
+  },
+  {
+    "id": "49",
+    "timezone_name_en": "Australia/Lord_Howe",
+    "timezone_name_ja": "ロードハウ島標準時",
+    "timezone_offset": "+10.5"
+  },
+  {
+    "id": "50",
+    "timezone_name_en": "Australia/Sydney",
+    "timezone_name_ja": "東部標準時 （ニューサウスウェールズ）",
+    "timezone_offset": "+10"
+  },
+  {
+    "id": "51",
+    "timezone_name_en": "Etc/GMT+12",
+    "timezone_name_ja": "GMT-12:00",
+    "timezone_offset": "-12"
+  },
+  {
+    "id": "52",
+    "timezone_name_en": "Europe/Berlin",
+    "timezone_name_ja": "中部ヨーロッパ時間",
+    "timezone_offset": "+1"
+  },
+  {
+    "id": "53",
+    "timezone_name_en": "Europe/London",
+    "timezone_name_ja": "グリニッジ標準時",
+    "timezone_offset": "0"
+  },
+  {
+    "id": "54",
+    "timezone_name_en": "Europe/Moscow",
+    "timezone_name_ja": "モスクワ標準時",
+    "timezone_offset": "+4"
+  },
+  {
+    "id": "55",
+    "timezone_name_en": "Pacific/Apia",
+    "timezone_name_ja": "西サモア時間",
+    "timezone_offset": "+13"
+  },
+  {
+    "id": "56",
+    "timezone_name_en": "Pacific/Auckland",
+    "timezone_name_ja": "ニュージーランド標準時",
+    "timezone_offset": "+12"
+  },
+  {
+    "id": "57",
+    "timezone_name_en": "Pacific/Chatham",
+    "timezone_name_ja": "チャタム標準時",
+    "timezone_offset": "+12.75"
+  },
+  {
+    "id": "58",
+    "timezone_name_en": "Pacific/Easter",
+    "timezone_name_ja": "イースター島時間",
+    "timezone_offset": "-6"
+  },
+  {
+    "id": "59",
+    "timezone_name_en": "Pacific/Gambier",
+    "timezone_name_ja": "ガンビア時間",
+    "timezone_offset": "-9"
+  },
+  {
+    "id": "60",
+    "timezone_name_en": "Pacific/Honolulu",
+    "timezone_name_ja": "ハワイ標準時",
+    "timezone_offset": "-10"
+  },
+  {
+    "id": "61",
+    "timezone_name_en": "Pacific/Kiritimati",
+    "timezone_name_ja": "ライン諸島時間",
+    "timezone_offset": "+14"
+  },
+  {
+    "id": "62",
+    "timezone_name_en": "Pacific/Majuro",
+    "timezone_name_ja": "マーシャル島時間",
+    "timezone_offset": "+12"
+  },
+  {
+    "id": "63",
+    "timezone_name_en": "Pacific/Marquesas",
+    "timezone_name_ja": "マルケサス時間",
+    "timezone_offset": "-9.5"
+  },
+  {
+    "id": "64",
+    "timezone_name_en": "Pacific/Norfolk",
+    "timezone_name_ja": "ノーフォーク時間",
+    "timezone_offset": "+11.5"
+  },
+  {
+    "id": "65",
+    "timezone_name_en": "Pacific/Noumea",
+    "timezone_name_ja": "ニューカレドニア時間",
+    "timezone_offset": "+11"
+  },
+  {
+    "id": "66",
+    "timezone_name_en": "Pacific/Pago_Pago",
+    "timezone_name_ja": "サモア標準時",
+    "timezone_offset": "-11"
+  },
+  {
+    "id": "67",
+    "timezone_name_en": "Pacific/Pitcairn",
+    "timezone_name_ja": "ピトケルン島標準時",
+    "timezone_offset": "-8"
+  },
+  {
+    "id": "68",
+    "timezone_name_en": "Pacific/Tongatapu",
+    "timezone_name_ja": "トンガ時間",
+    "timezone_offset": "+13"
+  },
+  {
+    "id": "69",
+    "timezone_name_en": "UTC",
+    "timezone_name_ja": "協定世界時",
+    "timezone_offset": "0"
+  }
+]

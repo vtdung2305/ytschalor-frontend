@@ -1,0 +1,987 @@
+{
+  "kind": "youtube#i18nRegionListResponse",
+  "etag": "XoDbeow6MQhgGCGTP0t0DOy3tyo",
+  "items": [
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "__2tdQiWyKPWXbrs0QS8emf9P4Q",
+      "id": "AE",
+      "snippet": {
+        "gl": "AE",
+        "name": "アラブ首長国連邦"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "rs0PEorLn3fU9H_O_3BXah6A7WM",
+      "id": "BH",
+      "snippet": {
+        "gl": "BH",
+        "name": "バーレーン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "qL2uxeUUW_gqP1esUYe0BMS0v5Q",
+      "id": "DZ",
+      "snippet": {
+        "gl": "DZ",
+        "name": "アルジェリア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "ymATavM4rDqq7D8-DNBX2xpHqaE",
+      "id": "EG",
+      "snippet": {
+        "gl": "EG",
+        "name": "エジプト"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "EGtN-s4eJWqdgBTs2hWqrRgE544",
+      "id": "IQ",
+      "snippet": {
+        "gl": "IQ",
+        "name": "イラク"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "0GnB8gnuaRU2yaiq2rzkSSJdkUY",
+      "id": "JO",
+      "snippet": {
+        "gl": "JO",
+        "name": "ヨルダン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "kVZKX8uFwI3ZTuQbEeezTyei6Ag",
+      "id": "KW",
+      "snippet": {
+        "gl": "KW",
+        "name": "クウェート"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "ur-VwWKwNVib1ICvmcfvHK25f_k",
+      "id": "LB",
+      "snippet": {
+        "gl": "LB",
+        "name": "レバノン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "K3fmVtGAWojzVxlY0PsVOD8y5WY",
+      "id": "LY",
+      "snippet": {
+        "gl": "LY",
+        "name": "リビア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "zyMdDb24sKJ1b_FoiRTNY0XQzHk",
+      "id": "MA",
+      "snippet": {
+        "gl": "MA",
+        "name": "モロッコ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "46BAo18pFcAlDWVsTxQLV_ibe0w",
+      "id": "OM",
+      "snippet": {
+        "gl": "OM",
+        "name": "オマーン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "xp4FX3MDnKVbKg0OZ-y0G_kdZDQ",
+      "id": "QA",
+      "snippet": {
+        "gl": "QA",
+        "name": "カタール"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "mzV5-Gbz1BXyXpZgtvT6U-9wqNQ",
+      "id": "SA",
+      "snippet": {
+        "gl": "SA",
+        "name": "サウジアラビア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "nDPc8-CE60e_O02MHxJ_VYI8QaY",
+      "id": "TN",
+      "snippet": {
+        "gl": "TN",
+        "name": "チュニジア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "MZaskThO46aj2skHDQIuELvTpTk",
+      "id": "YE",
+      "snippet": {
+        "gl": "YE",
+        "name": "イエメン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "RHGBtn14jHFwzQnws5PMmSy0Lxo",
+      "id": "AZ",
+      "snippet": {
+        "gl": "AZ",
+        "name": "アゼルバイジャン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "IOut_9GDdm11Txg2wrF2mxJyYWg",
+      "id": "BY",
+      "snippet": {
+        "gl": "BY",
+        "name": "ベラルーシ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "rdf-m65uvSlEHjnpO4OMFawvin0",
+      "id": "BG",
+      "snippet": {
+        "gl": "BG",
+        "name": "ブルガリア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "_GwRfZpxj6DcsPGzDZy2PQ0mX7M",
+      "id": "BD",
+      "snippet": {
+        "gl": "BD",
+        "name": "バングラディッシュ人民共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "T0gpf6zpQ9rXL1p9ym2IRwIIlOg",
+      "id": "BA",
+      "snippet": {
+        "gl": "BA",
+        "name": "ボスニア ヘルツェゴビナ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "CJ9U4gfEe1lXRgasuClqwG16O6E",
+      "id": "CZ",
+      "snippet": {
+        "gl": "CZ",
+        "name": "チェコ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "4xRfnqGSsN9J-nYFo8-ArMPx8w0",
+      "id": "DK",
+      "snippet": {
+        "gl": "DK",
+        "name": "デンマーク"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "6musrtPnk4umbNGDTOGPDV3tagQ",
+      "id": "AT",
+      "snippet": {
+        "gl": "AT",
+        "name": "オーストリア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "CArPdHmGv-goOslRld4e08a-l4Y",
+      "id": "CH",
+      "snippet": {
+        "gl": "CH",
+        "name": "スイス"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "8yMr4u4AlB-LGzaqbd0zUpTJyrw",
+      "id": "DE",
+      "snippet": {
+        "gl": "DE",
+        "name": "ドイツ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "QOnbF8mtxu0G47kvEBoagiMapW8",
+      "id": "GR",
+      "snippet": {
+        "gl": "GR",
+        "name": "ギリシャ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "DAidkXMgyBwawmAt57CXRL3Hhqo",
+      "id": "AU",
+      "snippet": {
+        "gl": "AU",
+        "name": "オーストラリア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "PPeXKW937pq1zu2eyHSysfam_dU",
+      "id": "BE",
+      "snippet": {
+        "gl": "BE",
+        "name": "ベルギー"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "gAhhMKw23rek0NYuqI85J061OZg",
+      "id": "CA",
+      "snippet": {
+        "gl": "CA",
+        "name": "カナダ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "guvbLDIMm_DP-L2uPSvs0XhS8Ys",
+      "id": "GB",
+      "snippet": {
+        "gl": "GB",
+        "name": "イギリス"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "QeMjzbx7Y7WozuDUthCKkVKYAPw",
+      "id": "GH",
+      "snippet": {
+        "gl": "GH",
+        "name": "ガーナ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "YoCbEqRJQ1F3aaTrLwLSe4J-9zo",
+      "id": "IE",
+      "snippet": {
+        "gl": "IE",
+        "name": "アイルランド"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "uVrteFNuIkmJFLb-TfcBhSnfrKM",
+      "id": "IL",
+      "snippet": {
+        "gl": "IL",
+        "name": "イスラエル"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "4FiXKzeSLzeSou0kcRnmEMvpPqM",
+      "id": "IN",
+      "snippet": {
+        "gl": "IN",
+        "name": "インド"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "jW755hocJiLAXBsV7MF68dVuPtE",
+      "id": "JM",
+      "snippet": {
+        "gl": "JM",
+        "name": "ジャマイカ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "hAR8yeivKEleZvuMTA7jVr4E_7Y",
+      "id": "KE",
+      "snippet": {
+        "gl": "KE",
+        "name": "ケニア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "YfnlgfFJerdQOgbrb7z-B8LQI_M",
+      "id": "MT",
+      "snippet": {
+        "gl": "MT",
+        "name": "マルタ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "L1xxpgA4OAJYb1pI_aSmP7spbQU",
+      "id": "NG",
+      "snippet": {
+        "gl": "NG",
+        "name": "ナイジェリア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "s2Qzm-b51o9szsPCLF8za9cPDF0",
+      "id": "NZ",
+      "snippet": {
+        "gl": "NZ",
+        "name": "ニュージーランド"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "7qeyYiSc8MixZv1dK389c30w6wc",
+      "id": "SG",
+      "snippet": {
+        "gl": "SG",
+        "name": "シンガポール"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "rFzvsBuBKcfdlOE8SGVBtfmXFRs",
+      "id": "UG",
+      "snippet": {
+        "gl": "UG",
+        "name": "ウガンダ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "7-g0wlCv-LJAcdq17IJ6fuN1w7w",
+      "id": "US",
+      "snippet": {
+        "gl": "US",
+        "name": "アメリカ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "2vNeQfwKvshmoYd8f-uu9SOlJsQ",
+      "id": "ZA",
+      "snippet": {
+        "gl": "ZA",
+        "name": "南アフリカ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "KO2xSOrXvg7nRQyEIGfsq8EEOM0",
+      "id": "ZW",
+      "snippet": {
+        "gl": "ZW",
+        "name": "ジンバブエ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "0md6JQE0osC13uYCAuphnDBoRZo",
+      "id": "AR",
+      "snippet": {
+        "gl": "AR",
+        "name": "アルゼンチン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "cV0Wx5dxe4q2ye6JdVJHMQ23BtY",
+      "id": "BO",
+      "snippet": {
+        "gl": "BO",
+        "name": "ボリビア共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "o4MiVB56RvPAzcwobXa3mg-Mh-M",
+      "id": "CL",
+      "snippet": {
+        "gl": "CL",
+        "name": "チリ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "1yLnY4FMZJx1xIarYzEfXtjbqYo",
+      "id": "CO",
+      "snippet": {
+        "gl": "CO",
+        "name": "コロンビア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "T4pJ8xl1qvbnPPqJDsN8oUnJWfg",
+      "id": "CR",
+      "snippet": {
+        "gl": "CR",
+        "name": "コスタリカ共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "VTuUVzwHt4MekirWEkS8k-x12J8",
+      "id": "DO",
+      "snippet": {
+        "gl": "DO",
+        "name": "ドミニカ共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "bpb2JxSi-3QssqXa5G7-UxxM8EU",
+      "id": "EC",
+      "snippet": {
+        "gl": "EC",
+        "name": "エクアドル共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "zNR5cen7z23rL1bIXFZCxSTO_6A",
+      "id": "ES",
+      "snippet": {
+        "gl": "ES",
+        "name": "スペイン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "lyaBJVt_QqguvoveE-OcKL9vR4c",
+      "id": "GT",
+      "snippet": {
+        "gl": "GT",
+        "name": "グァテマラ共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "n6jZlOqaOP5anOVHOLpZJ3xMtE4",
+      "id": "HN",
+      "snippet": {
+        "gl": "HN",
+        "name": "ホンジュラス共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "QFfikhFiYAeDYasbP1qNU1zDOQ8",
+      "id": "MX",
+      "snippet": {
+        "gl": "MX",
+        "name": "メキシコ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "EEgbDg8j68SN1EagTm01rT0l5Cw",
+      "id": "NI",
+      "snippet": {
+        "gl": "NI",
+        "name": "ニカラグア共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "DjfLY0xz2QCEGpsAoRmr6C_UxJg",
+      "id": "PA",
+      "snippet": {
+        "gl": "PA",
+        "name": "パナマ共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "UcdR992QxZ0TZxoykFD47oKuZ5A",
+      "id": "PE",
+      "snippet": {
+        "gl": "PE",
+        "name": "ペルー"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "w6CEjMul1T_r07ZZF7EGa5lvdIw",
+      "id": "PR",
+      "snippet": {
+        "gl": "PR",
+        "name": "プエルトリコ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "y74YQY17BnL0IA9sCljI53LdFVg",
+      "id": "PY",
+      "snippet": {
+        "gl": "PY",
+        "name": "パラグアイ共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "JcVseuR2RvZR5bMp9Yg_8jK4u78",
+      "id": "SV",
+      "snippet": {
+        "gl": "SV",
+        "name": "エルサルバドル共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "Dyl0RUxqiPLX-EOGBd7bgyfa4S4",
+      "id": "UY",
+      "snippet": {
+        "gl": "UY",
+        "name": "ウルグアイ共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "msAFgApbozn2ojjyuubbGIw9Agk",
+      "id": "VE",
+      "snippet": {
+        "gl": "VE",
+        "name": "ベネズエラ共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "hE_2RsOlgXJ_7dUfAU_MPzLJhjw",
+      "id": "EE",
+      "snippet": {
+        "gl": "EE",
+        "name": "エストニア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "B4cSazQxOZvbUE54sQTiSjYexDw",
+      "id": "FI",
+      "snippet": {
+        "gl": "FI",
+        "name": "フィンランド"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "7QTgeh_26NGw7lLh-RDNLhC8BmU",
+      "id": "PH",
+      "snippet": {
+        "gl": "PH",
+        "name": "フィリピン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "XMoepjMMzwEhpvH516JyM3WeBRc",
+      "id": "FR",
+      "snippet": {
+        "gl": "FR",
+        "name": "フランス"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "9mp6v1dRnTGYOfSnmH0_UaEX0XI",
+      "id": "SN",
+      "snippet": {
+        "gl": "SN",
+        "name": "セネガル"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "QLYvOudHwid_rbjdUO7-QkA0tF8",
+      "id": "HR",
+      "snippet": {
+        "gl": "HR",
+        "name": "クロアチア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "lMITrXl1RzVs9FA1cZv_c8LGJ9A",
+      "id": "HU",
+      "snippet": {
+        "gl": "HU",
+        "name": "ハンガリー"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "PsCFjgtA_gQlbKL-3iYdetAuYUI",
+      "id": "ID",
+      "snippet": {
+        "gl": "ID",
+        "name": "インドネシア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "O5bVnGVrnlsMCEsmTnm591q7jdA",
+      "id": "IS",
+      "snippet": {
+        "gl": "IS",
+        "name": "アイスランド"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "_L6S3oQugSkVtX93GdDpSOU0qZY",
+      "id": "IT",
+      "snippet": {
+        "gl": "IT",
+        "name": "イタリア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "idwileg6NUXvrzM2gG_hF7wt__U",
+      "id": "JP",
+      "snippet": {
+        "gl": "JP",
+        "name": "日本"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "lz0E_CCaxkV7DLlagXWMBOsFyD0",
+      "id": "GE",
+      "snippet": {
+        "gl": "GE",
+        "name": "ジョージア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "E_ihiQcPWx8mRmrdzAYtxPjPpSA",
+      "id": "KZ",
+      "snippet": {
+        "gl": "KZ",
+        "name": "カザフスタン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "RDd6YTJXsGZmeLXePcUrIQ3JPwk",
+      "id": "KR",
+      "snippet": {
+        "gl": "KR",
+        "name": "韓国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "rMgjFf19MQ7d0oLk71v7dhhvgxY",
+      "id": "LU",
+      "snippet": {
+        "gl": "LU",
+        "name": "ルクセンブルグ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "l0h3Xb3FwVgxnUEOr7oj15Y9k3M",
+      "id": "LA",
+      "snippet": {
+        "gl": "LA",
+        "name": "ラオス"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "SPXSxLmPwgo4sI55TLGvLQQ0HoU",
+      "id": "LT",
+      "snippet": {
+        "gl": "LT",
+        "name": "リトアニア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "UY4C3UDZnImkKfHANnhCWbLxH2c",
+      "id": "LV",
+      "snippet": {
+        "gl": "LV",
+        "name": "ラトビア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "BriXDsiqe-oE4gVJbhNcg9BE-yo",
+      "id": "MK",
+      "snippet": {
+        "gl": "MK",
+        "name": "北マケドニア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "A3KLzQCqHHM8RediBX7vjhQNm_w",
+      "id": "MY",
+      "snippet": {
+        "gl": "MY",
+        "name": "マレーシア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "0URTA0Q4MyqmUR0g0SD6j0aMezs",
+      "id": "NO",
+      "snippet": {
+        "gl": "NO",
+        "name": "ノルウェー"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "5xMqNfi1M0nPAUT9g6z6GQwT7DM",
+      "id": "NP",
+      "snippet": {
+        "gl": "NP",
+        "name": "ネパール"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "urEykhXb3WKoLLNKPL1A1sFX07U",
+      "id": "NL",
+      "snippet": {
+        "gl": "NL",
+        "name": "オランダ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "quVcsGAiUryM3FkRdAgiRWFAJ3A",
+      "id": "PL",
+      "snippet": {
+        "gl": "PL",
+        "name": "ポーランド"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "ilT-9dcn1T3EkMUjmVWFV9bpFdM",
+      "id": "BR",
+      "snippet": {
+        "gl": "BR",
+        "name": "ブラジル"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "ZXsEx5O7SXxzlNPqBcizQRrWUSw",
+      "id": "PT",
+      "snippet": {
+        "gl": "PT",
+        "name": "ポルトガル"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "DZY4-1FsaTNk-Qf9mFy_mBDvzUI",
+      "id": "RO",
+      "snippet": {
+        "gl": "RO",
+        "name": "ルーマニア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "tavs4AxUutg8PU6nlfWW8Nhig3k",
+      "id": "RU",
+      "snippet": {
+        "gl": "RU",
+        "name": "ロシア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "W6fbxGpQNW5i--MQadChZs6Vkvk",
+      "id": "LK",
+      "snippet": {
+        "gl": "LK",
+        "name": "スリランカ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "Rtp4Sk_W-Tg7MV-bsWngfgEyzNE",
+      "id": "SK",
+      "snippet": {
+        "gl": "SK",
+        "name": "スロバキア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "CMMM5K9GLOBxEuTDbcHteyIOkn8",
+      "id": "SI",
+      "snippet": {
+        "gl": "SI",
+        "name": "スロベニア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "NwPRqOIg16j3RJKrpVCP3uDRV3U",
+      "id": "ME",
+      "snippet": {
+        "gl": "ME",
+        "name": "モンテネグロ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "QhOzG4udQJJvtCfoOCGur6aEMwc",
+      "id": "RS",
+      "snippet": {
+        "gl": "RS",
+        "name": "セルビア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "3tbTmBGFFL_Q_EN_UDECCnbI1iQ",
+      "id": "SE",
+      "snippet": {
+        "gl": "SE",
+        "name": "スウェーデン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "ZPJhd9PBljJXDiJqb4gutNjmDEw",
+      "id": "TZ",
+      "snippet": {
+        "gl": "TZ",
+        "name": "タンザニア"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "z2g_DDtNVjuGWRf1p3jeH71WiGI",
+      "id": "TH",
+      "snippet": {
+        "gl": "TH",
+        "name": "タイ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "pQYirtM2dNd2EZTXjUeo1O1o5G0",
+      "id": "TR",
+      "snippet": {
+        "gl": "TR",
+        "name": "トルコ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "3jWu86zgz4MpETGr9hSKlYY-1Vc",
+      "id": "UA",
+      "snippet": {
+        "gl": "UA",
+        "name": "ウクライナ"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "vyFm96HVsxvCTVeLWgz_HGFhl5o",
+      "id": "PK",
+      "snippet": {
+        "gl": "PK",
+        "name": "パキスタン"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "qZP3yPEdA7NnH4PSsHU29qBaeRE",
+      "id": "VN",
+      "snippet": {
+        "gl": "VN",
+        "name": "ベトナム"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "BlCl0ppKdtfGFz9j-VA01h6xU_o",
+      "id": "HK",
+      "snippet": {
+        "gl": "HK",
+        "name": "香港"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "gzvF6IpRSJ5sgrNI2eVeaFQe0HM",
+      "id": "TW",
+      "snippet": {
+        "gl": "TW",
+        "name": "台湾"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "l2Ehm04j4jxeKhfdZSeRsd7iKyk",
+      "id": "CY",
+      "snippet": {
+        "gl": "CY",
+        "name": "キプロス共和国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "DNZeKB0D88Vho0Ixg5zPOTl3_mk",
+      "id": "KH",
+      "snippet": {
+        "gl": "KH",
+        "name": "カンボジア国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "M_sc1RmzFP9z_VWK27e1DwU9-VA",
+      "id": "LI",
+      "snippet": {
+        "gl": "LI",
+        "name": "リヒテンシュタイン公国"
+      }
+    },
+    {
+      "kind": "youtube#i18nRegion",
+      "etag": "uYMRK6fvvUeGqGChAIushrpB2Dw",
+      "id": "PG",
+      "snippet": {
+        "gl": "PG",
+        "name": "パプア　ニューギニア"
+      }
+    }
+  ]
+}
